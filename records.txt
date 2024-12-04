@@ -1,0 +1,11 @@
+NY - Actual Temperature: -0.78°C // Predicted Temperature: -1.51°C 
+London -  Actual Temperature: -0.78°C // Predicted Temperature: -1.51°C
+Istanbul - Actual Temperature: 9.01°C // Predicted Temperature: 7.82°C
+Toronto - Actual Temperature: -4.1°C // Predicted Temperature: -7.69°C
+Sao Paulo - Actual Temperature: 29.08°C // Predicted Temperature: 33.01°C
+
+////////////////////////////////////////////////////////////
+updated Actual Temperature: 9.89°C  && Predicted Temperature: 8.19°C
+normal                             &&  Predicted Temperature: 8.16°C
+sgd updated + normal               &&  Predicted Temperature: 9.28°C
+sgd normal + updated               && Predicted Temperature: 8.75°C
