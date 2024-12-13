@@ -6,8 +6,20 @@ This project implements a weather prediction system that predicts the temperatur
 
 - Fetch real-time weather data for a specific city.
 - Predict the temperature using a pre-trained machine learning model.
+
+![image](https://github.com/user-attachments/assets/4ad38c0a-042c-4c06-91c1-f4206803f6d5)
+
+
 - Display actual vs predicted temperatures using a line chart.
+
+![image](https://github.com/user-attachments/assets/47e4b8d3-1b1e-4351-a0c6-e60551ce8bda)
+
+
 - Show model performance metrics (Mean Absolute Error, Mean Squared Error).
+
+![image](https://github.com/user-attachments/assets/802afd49-d338-4f9d-b4d9-4af6713a29a2)
+
+  
 - Interactive user interface using Streamlit.
 
 ## Requirements
