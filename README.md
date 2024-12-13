@@ -11,10 +11,6 @@ This project implements a weather prediction system that predicts the temperatur
 
 
 - Display actual vs predicted temperatures using a line chart.
-
-![image](https://github.com/user-attachments/assets/47e4b8d3-1b1e-4351-a0c6-e60551ce8bda)
-
-
 - Show model performance metrics (Mean Absolute Error, Mean Squared Error).
 
 ![image](https://github.com/user-attachments/assets/802afd49-d338-4f9d-b4d9-4af6713a29a2)
